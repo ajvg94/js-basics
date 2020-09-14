@@ -52,6 +52,10 @@ console.log(birthDay);
     Increment by 1
         x++
         x--
+    Equality operator '==' and '==='
+        ==      Just checks for the value, it doesn't care about data types 0 == '0'
+        ===     Checks for value AND also for data type 0 === 0
+
 */
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
 //Type of
