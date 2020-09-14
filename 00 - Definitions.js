@@ -7,5 +7,9 @@ JS can be used for:
     Client-side: in the browser.
     Server-side: nodeJS.
 
-
+There are different versions of JS
+    es5
+    es6 -> 2015
+    es7 -> 2016
+    es8 -> 2017
 */
