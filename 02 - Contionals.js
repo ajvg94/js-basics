@@ -14,7 +14,7 @@
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
 //Important IFs
     var x;
-    if (x) console.log(x);
+    if (x) console.log(x);//has a value
 /*
     if (variable)
     This checks for: null, undefined, NaN, empty string (""), 0, false
