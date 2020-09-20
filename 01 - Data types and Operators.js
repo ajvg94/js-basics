@@ -59,7 +59,7 @@ console.log(birthDay);
 */
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
 //Type of
-typeof(year);
+console.log(typeof(year));
 /*
     Returns the data type of the variable
 */
