@@ -20,17 +20,15 @@
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
-//#region Function expression
+//#region First class function
 /*
-    var name = function (arguments){
-        do something;
-        return something;
-    }
+    It is a function that is called and then disappears, it's main purpose is data privacy
 
-    name(arguments);
+    (function (parameter){
+        console.log(parameter);
+    })(parameter);
+
+    You cant call or access this functions parameters outside of the ()
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
-
-
-
