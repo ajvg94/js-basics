@@ -30,11 +30,17 @@ Lets us set the text content of the selected element in HTML
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
 //#region EVENTS addEventListener()
-//document.querySelector('').addEventListener() = 
+//document.querySelector('').addEventListener(event, function(){}) 
 /*
 Lets us detect when an event happened to the selected object (https://developer.mozilla.org/en-US/docs/Web/Events)
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
+//#region click event
+/*
+    document.querySelector('').addEventListener('click', function(){
 
+    });
+*/
+//#endregion
 
