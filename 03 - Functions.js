@@ -32,3 +32,17 @@
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
+//#region Closures
+/*
+    It is a function that returns another function and it can also use argument of its parent function because it is in its scope
+
+    function parent(argument){
+        return function child(argument2){
+            do something with argument;
+        }
+    }
+
+    parent(argument)(argument2);
+*/
+//#endregion
+/*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
