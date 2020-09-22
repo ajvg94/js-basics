@@ -55,3 +55,14 @@
     }
 */
 //#endregion
+/*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
+//#region default parameters
+/*
+    you can declare a function without arguments in the following way
+
+    function logNames(param1='default', param2='default'){
+        
+    }
+*/
+//#endregion
+/*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
