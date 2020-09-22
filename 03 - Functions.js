@@ -46,8 +46,12 @@
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
-//#region call bind apply
+//#region function without arguments 
 /*
-    
+    you can declare a function without arguments in the following way
+
+    function logNames(){
+        console.log(arguments)
+    }
 */
 //#endregion

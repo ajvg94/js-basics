@@ -70,3 +70,13 @@ var john = new Person ('John', 1994, 'teacher');
 john.calculateAge();
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
+//#region Deconstructing
+//you can get the elements of an object in the following way
+let pet = {
+    type: "dog",
+    name:"scooby"
+};
+
+let {petType,petName}= pet;
+//#endregion
+/*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/

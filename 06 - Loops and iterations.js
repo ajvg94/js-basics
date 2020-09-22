@@ -82,6 +82,14 @@
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
+//#region FOR OF
+const arr6 = ['red','white','blue'];
+for(let el of arr6){
+    if(el == 'white') continue;
+    el = white;
+}
+console.log(arr6);
+//#endregion
 
 
 
