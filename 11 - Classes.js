@@ -52,3 +52,4 @@ let subClassEx = new SubClass('John','Farmer',1994,'Mustang',4);
 subClassEx.addCont();
 console.log(subClassEx);
 //#endregion
+/*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
