@@ -13,7 +13,7 @@ Let's you write code in ES6/ESNext and it does the traduction to ES5 for more br
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
 //#region webpack
 /*
-Let's us bundle our modules for exporting
+Let's us bundle our modules for exporting and use them in the browser.
 */
 //#endregion
 /*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*/
