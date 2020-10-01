@@ -1,4 +1,7 @@
 /*
+
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 JS us a lightweight cross-platform, object-oriented computed programing language.
 
 JS is one of the three core technologies of web development
